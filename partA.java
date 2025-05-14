@@ -4,7 +4,7 @@ public class Main {
         //A bunch of test cases
         System.out.println(getSignature("Hello", "Skibidi"));
         System.out.println(addSignature("I-hehehehe", "I"));
-        System.out.println(addSignature("FDEGHDJHWJGVJQK", "William"));
+        System.out.println(addSignature("FDEGHDJHWJGVJQK", "William")); //sigma boy ;p
     }
     public static String getSignature(String first, String last){
         if(first.length()==0){

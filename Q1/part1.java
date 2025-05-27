@@ -7,4 +7,3 @@ public int walkDogs(int hour){
         company.updateDogs(hour, maxDogs);
         return maxDogs;
     }
-public 

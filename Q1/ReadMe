@@ -2,4 +2,9 @@ Dog Walker
 
 -This one took by far the longest amount of time for me to read(Around 20 minutes of just reading) just to even 
 understand part A. 
--In reality it was much more simple than it seemed. 
+-In reality it was much more simple than it seemed. All we needed to do was find how many dogs the walker can walk and update it to the company.
+This quesion would take both helper methods which makes it far more simple. The only part that might require thinking are the 2 cases that may occur,
+if the walker's maximum is higher than the number of dogs available or not.
+-My main struggle with both is just reading
+
+

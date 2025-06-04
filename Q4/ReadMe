@@ -5,6 +5,7 @@ Part A:
 
 Part B:
 -I remember what really helped with this question was our project on conway's game of life since it was quite similiar.
+In a way it was similar since we just checked and compared numbers/boxes
 -The queston asked us to check if there are any number that is the same or can add up with the number tested to make 10. 
 This goes from the ENTIRE row that the tested number is in to the last row.
 

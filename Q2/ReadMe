@@ -6,4 +6,11 @@ slightly differently but the methods function the same way.
 -For this question, reading the test cases is actually even more important because the code excludes many features you may want in a real program.
 For example, if I were a user, I would've liked my initials capitalized but that's not a part of the test. 
 
--The main issue I faced during this question was overcomplicating the code. 
+-Honestly not much to say for getSignature.
+
+-The main issue I faced during this question was overcomplicating the code. I spent unnessasary time for addSignature because I wanted to remove the signature 
+if it was in the middle of the text (For example if text= SigmaR-izzler and the signature was just R-izz, I wanted to make it become Sigmaler). However, I ended up spending 
+an extra 15 minutes doing that and likely messing up on the test too. A test case where the signature was in the middle was NEVER EXPLICITLY mentioned in the test cases so 
+we didn't have to worry about them.
+
+-Main take away is to do what your told on the test. At the end of the day, you're not learning coding but you're learning the fundamentals of code. 

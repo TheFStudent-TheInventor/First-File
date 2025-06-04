@@ -1,10 +1,16 @@
-public static String addSignature(String text, String signature){
-        //tests all cases
-        if(text.indexOf(signature)==text.length()-signature.length()){
-            return text;
+public ArrayList<Match> buildMatches(){
+        ArrayList<Match> matches = new ArrayList<Match>();
+        if(competitorList.size()%2 == 1){
+                for(int i = 0; i< competitorList.size();i++){
+                        Match current = new Match(competitorList.get(i), competitorList.get(competitorList.size()-i-1));
+                        matches.add(current);
+                }
         }
-        if(text.indexOf(signature)>-1){
-            return text.substring(0,text.indexOf(signature))+text.substring(text.indexOf(signature+1)+signature.length());
+        else{
+                for(int i = 1;i< competitorList.size()/2 +1;i++){
+                        Match current = new Match(competitorList.get(i), competitorList.get(competitorList.size()-i);
+                        matches.add(current);
+                }
         }
-        return text+signature;
-    }
+        return matches
+}

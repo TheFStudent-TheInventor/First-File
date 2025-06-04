@@ -5,5 +5,10 @@ Part A:
 
 Part B:
 -I remember what really helped with this question was our project on conway's game of life since it was quite similiar.
--The queston asked us to check if there are any number that is the same or can add up with the number tested to make 10. This goes from the ENTIRE row that the tested number is in to the last row.
+-The queston asked us to check if there are any number that is the same or can add up with the number tested to make 10. 
+This goes from the ENTIRE row that the tested number is in to the last row.
+
+-Also make sure to add a condition that prevents the code from comparing the test number to itself.
+-Fairly simple question, even during the test.
+
 

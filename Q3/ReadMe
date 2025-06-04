@@ -9,4 +9,11 @@ Part A
 
 Part B
 -Much more challenging because of the 2 different cases, if the number of competitors is even or odd.
+-If it's even, the numbers are quite simple, we just run the code by half the number of competitors and the rest of the numbers are easy.
+-However, if it's odd, we need to run the code the same number of times. Also the index of the second competitor is also confusing.
+Your first index is 1, so the index for the second competitor should simply be length - i. 
+-Following the test, I asked many people about their answers and got many different answers.
+
+-Once again, we over thought the question. We didn't need to make it 2 cases, I saw a solution which solved it without any if statements. 
+-The biggest issue was numbers but still the question wasn't too bad. 
 

@@ -7,7 +7,7 @@ public ArrayList<Match> buildMatches(){
                 }
         }
         else{
-                for(int i = 1;i< competitorList.size()/2 +1;i++){
+                for(int i = 1;i< competitorList.size()/2 ;i++){
                         Match current = new Match(competitorList.get(i), competitorList.get(competitorList.size()-i);
                         matches.add(current);
                 }

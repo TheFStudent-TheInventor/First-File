@@ -1,6 +1,5 @@
-public String getSignature(String first, String last){
-        if(first.length()==0){
-            return last;
+public Round(String [] names){
+        for(int i = 0; i < names.length;i++){
+                Competitor current = new Competitor(names[i],i+1);
         }
-        return first.substring(0,1)+"-"+last;
-    }
+}

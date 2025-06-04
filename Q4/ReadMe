@@ -1,1 +1,9 @@
+Sum or Same Game
+
+Part A:
+-Another simple part A, we just needed a nested loop to fill in all of the boxes.
+
+Part B:
+-I remember what really helped with this question was our project on conway's game of life since it was quite similiar.
+-The queston asked us to check if there are any number that is the same or can add up with the number tested to make 10. This goes from the ENTIRE row that the tested number is in to the last row.
 

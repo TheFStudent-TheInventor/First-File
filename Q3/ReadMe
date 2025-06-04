@@ -5,6 +5,7 @@ Matches and Competitors
 Part A
 -Nothing to say here, it's pretty easy 
 -Just remember that their rank should be one more than their index within the list.
+-Also you don't need to create the arraylist since they already made it as an instance variable. 
 
 Part B
 -Much more challenging because of the 2 different cases, if the number of competitors is even or odd.

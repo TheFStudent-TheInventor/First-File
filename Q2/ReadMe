@@ -1,1 +1,9 @@
+Signed Text 
 
+-Note that I modified the code so that it would work within one file to make my life easier. If you were taking the real test, the code would be written
+slightly differently but the methods function the same way. 
+
+-For this question, reading the test cases is actually even more important because the code excludes many features you may want in a real program.
+For example, if I were a user, I would've liked my initials capitalized but that's not a part of the test. 
+
+-The main issue I faced during this question was overcomplicating the code. 
